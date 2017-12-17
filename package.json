@@ -1,0 +1,13 @@
+{
+  "name": "open_zhihu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dragonly/open_zhihu",
+  "author": "dragonly",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "puppeteer": "^0.13.0",
+    "redis": "^2.8.0"
+  }
+}
